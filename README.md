@@ -1,78 +1,43 @@
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-```text
-               @@@@@@@@@@@
-          @@@@$$$$$$$$$@@@@
-       @@@$$$#########$$$@@@
-     @@$$####**!!!!!!**####$$@@
-   @@$###**!!;;::--::;;!!**###$@@
-  @$###**!!;;:,,....,,::!!**###$@
- @$###**!!;;:,          ,:;;!!**##$@
- @$###**!!;;:,          ,:;;!!**##$@
-  @$###**!!;;:,,......,,::!!**###$@
-   @@$####**!!;;::::::;;!!**####$@@
-     @@$$####**********####$$@@
-       @@@$$$$######$$$$@@@
-          @@@@@@@@@@@@@
-```
+<img
+  src="./assets/donut.gif"
+  width="360"
+  alt="Rotating ASCII donut"
+/>
 
 </td>
 
 <td width="58%" valign="top">
 
-# Hi, I'm Rajeev 👋
+## Hi, I'm Rajeev 👋
 
-**Software Engineer @ Elucidata**
-
-### About Me
+**Software Engineer at Elucidata**
 
 I like the feeling you get when someone uses something you've built and it works smoothly.
 
----
-
 ### Technologies
 
-**Languages**
-- Java
-- TypeScript
-- JavaScript
-- Python
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Frontend:** Angular, React, Next.js
+- **Backend:** Spring Boot, WebSockets
+- **Databases:** PostgreSQL, Redis
+- **Cloud & Tools:** Docker, AWS, GCP, Git
 
-**Frontend**
-- Angular
-- React
-- Next.js
+### Currently working on
 
-**Backend**
-- Spring Boot
-- WebSockets
-
-**Databases**
-- PostgreSQL
-- Redis
-
-**Cloud & Tools**
-- Docker
-- AWS
-- Git
-
----
-
-### Currently
-
-- Building **MyFlow**
-- Transitioning into backend engineering
-- Learning distributed systems
-
----
+- Building and maintaining production web applications
+- Frontend feature development using Angular
+- Backend development
+- Building MyFlow
 
 ### Interests
 
-- Real-time applications
 - Backend engineering
 - Distributed systems
+- Real-time applications
 - Developer tools
 
 </td>
