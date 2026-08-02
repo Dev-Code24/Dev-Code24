@@ -1,19 +1,9 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/donut-dark.gif"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/donut-light.gif"
-    />
-    <!-- <img
-      src="./assets/donut-dark.gif"
-      width="320"
-      alt="Rotating ASCII donut"
-    /> -->
-  </picture>
+  <img
+    src="./assets/donut.gif"
+    width="320"
+    alt="Rotating ASCII donut"
+  />
 </p>
 
 ## Hi, I'm Rajeev 👋
