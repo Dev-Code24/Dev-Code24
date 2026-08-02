@@ -8,11 +8,11 @@
       media="(prefers-color-scheme: light)"
       srcset="./assets/donut-light.gif"
     />
-    <img
+    <!-- <img
       src="./assets/donut-dark.gif"
       width="320"
       alt="Rotating ASCII donut"
-    />
+    /> -->
   </picture>
 </p>
 
