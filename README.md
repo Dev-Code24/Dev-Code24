@@ -1,19 +1,14 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-dark.gif"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-white.gif"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-dark.gif"
-      width="320"
-      alt="Rotating ASCII donut"
-    />
-  </picture>
+  <img
+    src="./assets/donut-dark.gif#gh-dark-mode-only"
+    width="320"
+    alt="Rotating ASCII donut"
+  />
+  <img
+    src="./assets/donut-light.gif#gh-light-mode-only"
+    width="320"
+    alt="Rotating ASCII donut"
+  />
 </p>
 
 ## Hi, I'm Rajeev 👋
