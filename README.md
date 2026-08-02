@@ -2,14 +2,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/donut-dark.gif"
+      srcset="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-dark.gif"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/donut-light.gif"
+      srcset="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-white.gif"
     />
     <img
-      src="./assets/donut-dark.gif"
+      src="https://raw.githubusercontent.com/Dev-Code24/Dev-Code24/main/assets/donut-dark.gif"
       width="320"
       alt="Rotating ASCII donut"
     />
