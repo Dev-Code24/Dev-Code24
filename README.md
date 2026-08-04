@@ -12,7 +12,7 @@
 
 I like the feeling you get when someone uses something you've built and it works smoothly.
 
-### Technologies
+### Technologies I know
 
 - **Languages:** Java, TypeScript, JavaScript, Python
 - **Frontend:** Angular, React, Next.js
@@ -20,19 +20,19 @@ I like the feeling you get when someone uses something you've built and it works
 - **Databases:** PostgreSQL, Redis
 - **Cloud & Tools:** Docker, AWS, GCP, Git
 
-### Currently working on
+### Things I am currently working on
 
 - Building production web applications
 - Full-stack engineering
 - Building MyFlow
 
-### Interests
+### My Interests
 
 - Backend engineering
 - Distributed systems
 - Real-time applications
 
-## Featured
+## Some of my projects
 
 - 🚀 **MyFlow** — Collaborative whiteboard built with Next.js, NodeJs Yjs, SpringBoot *(WIP)* [\[LINK\]](https://github.com/Dev-Code24/My-Flow-Frontend)
 - ♟️ **MyChess** — Real-time multiplayer chess built with Spring Boot, Redis and WebSockets [\[LINK\]](https://github.com/Dev-Code24/My-Chess-Backend)
